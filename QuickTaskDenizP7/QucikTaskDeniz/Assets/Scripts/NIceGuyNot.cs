@@ -5,7 +5,7 @@ using UnityEngine;
 
 public class NIceGuyNot : MonoBehaviour
 {
-    public TextMeshProUGUI GameOver;
+    public TextMeshPro GameOver;
     void OnTriggerStay2D(Collider2D other)
     {
         
